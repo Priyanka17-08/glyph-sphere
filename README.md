@@ -39,7 +39,8 @@ With added interactivity such as cursor-based repulsion and a modern glass-style
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/glyph-sphere.git
+git clone https://github.com/Priyanka17-08/glyph-sphere.git
+```
 
 2.Open directly in your browser
 

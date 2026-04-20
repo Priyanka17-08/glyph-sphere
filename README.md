@@ -43,6 +43,7 @@ git clone https://github.com/Priyanka17-08/glyph-sphere.git
 ```
 
 2.Open directly in your browser
+glyphsphere.netlify.app
 
 
 ## 🎮 Usage & Controls

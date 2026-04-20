@@ -83,3 +83,16 @@ git clone https://github.com/Priyanka17-08/glyph-sphere.git
 | Mobile Safari | ⚠️ Supported (performance may vary) |
 > ⚠️ Note: Performance depends on device capability.  
 > For smoother experience on low-end or mobile devices, consider reducing the particle count.
+
+
+## 📄 License
+
+MIT License
+
+---
+
+## 👩‍💻 Author
+
+**Priyanka**
+
+---
